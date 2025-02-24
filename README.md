@@ -1,2 +1,2 @@
 # Timer-Resolution-Setter
-A program that allows you to view the current timer resolution and change it to minimum ou maximum
+Timer Resolution Setter is a minimalistic and user-friendly application that displays the current system timer resolution in milliseconds and allows you to adjust it to the minimum value or reset it to the default.
